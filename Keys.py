@@ -1,0 +1,7 @@
+# you can get telegram development credentials in telegram API Development Tools
+api_id = []
+api_hash = []
+
+# use full phone number including + and country code
+phone = []
+username = []
